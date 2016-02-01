@@ -1,8 +1,6 @@
 # Casper
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
-
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+Default Voyage theme. Forked from [TryGhost/Casper](https://github.com/TryGhost/Casper/releases).
 
 ## Copyright & License
 
